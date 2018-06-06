@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "OrderView";
+    ViewBag.Title = "Orders";
+}
+
+<h2>OrderView</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Name </td>
+            <td>MobilePhone</td>
+            <td>Type</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in ViewBag.Orders)
+         {
+        <tr>
+            <td>@order.Name</td>
+            <td>@order.MobilePhone</td>
+            <td>@order.Type</td>
+            <td><a href="~/Home/DeleteOrder/@order.Id">Delete</a></td>
+        </tr>
+         }
+    </tbody>
+</table>

@@ -1,0 +1,23 @@
+﻿@model BusinessLogicLayer.WorkView
+@{
+    ViewData["Title"] = "WorkCreation";
+}
+
+<h2>WorkCreation</h2>
+
+<form asp-action="WorkCreate" asp-controller="Home">
+    <div class="form-group">
+        <label asp-for="Photo">Image</label>
+        <input asp-for="Photo" type="text" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Type">Type</label>
+        <input asp-for="Type" type="text" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" type="text" class="form-control" />
+    </div>
+
+    <input type="submit" value="Create" class="btn btn-default" />
+</form>

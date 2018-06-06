@@ -1,0 +1,17 @@
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DesignStudio.deps.json
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DesignStudio.runtimeconfig.json
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DesignStudio.runtimeconfig.dev.json
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DesignStudio.dll
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DesignStudio.pdb
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\BusinessLogicLayer.dll
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\UnitOfWork.dll
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\BusinessLogicLayer.pdb
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\UnitOfWork.pdb
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\obj\Debug\netcoreapp2.0\DesignStudio.csprojResolveAssemblyReference.cache
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\obj\Debug\netcoreapp2.0\DesignStudio.csproj.CoreCompileInputs.cache
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\obj\Debug\netcoreapp2.0\DesignStudio.AssemblyInfoInputs.cache
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\obj\Debug\netcoreapp2.0\DesignStudio.AssemblyInfo.cs
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\obj\Debug\netcoreapp2.0\DesignStudio.dll
+C:\Users\Nadiya\source\repos\Architecture4\Architecture4\obj\Debug\netcoreapp2.0\DesignStudio.pdb

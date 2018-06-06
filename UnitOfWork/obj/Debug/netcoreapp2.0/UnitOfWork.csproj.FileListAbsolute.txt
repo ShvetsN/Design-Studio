@@ -1,0 +1,11 @@
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\bin\Debug\netcoreapp2.0\UnitOfWork.deps.json
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\bin\Debug\netcoreapp2.0\UnitOfWork.dll
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\obj\Debug\netcoreapp2.0\UnitOfWork.csprojResolveAssemblyReference.cache
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\obj\Debug\netcoreapp2.0\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\obj\Debug\netcoreapp2.0\UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\obj\Debug\netcoreapp2.0\UnitOfWork.AssemblyInfo.cs
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\bin\Debug\netcoreapp2.0\UnitOfWork.pdb
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\obj\Debug\netcoreapp2.0\UnitOfWork.dll
+C:\Users\Nadiya\source\repos\Architecture4\UnitOfWork\obj\Debug\netcoreapp2.0\UnitOfWork.pdb

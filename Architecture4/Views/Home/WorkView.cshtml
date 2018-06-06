@@ -1,0 +1,34 @@
+﻿@model BusinessLogicLayer.WorkView
+@{
+    ViewData["Title"] = "WorkView";
+    ViewBag.Name = "Portfolio";
+}
+
+<h2>WorkView</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Type </td>
+            <td>Description</td>
+            <td>Image</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var work in ViewBag.Portfolio)
+        {
+        <tr>
+            <td>@work.Type</td>
+            <td>@work.Description</td>
+            <td><img src=@work.Photo width="300" /></td>
+            <td><a href="~/Home/DeleteWork/@work.Id">Delete</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+
+@*@System.Web.HttpUtility.UrlEncode(work.Photo)*@
+@*PM> Install-Package Microsoft.AspNetCore.WebUtilities
+PM> Install-Package Microsoft.AspNetCore.Http.Extensions*@
